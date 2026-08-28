@@ -7,5 +7,5 @@ Two raw data files, `Data_all_Part1.csv` and `Data_all_Part2.csv`, are provided 
 
 `ITE_Drainage_LSED_ERA.csv` includes causal inference outputs that quantify the impacts of MAAT on drainage lakes.
 
-For additional code and datasets, please refer to https://codeocean.com/capsule/5043256/tree
+For additional code and datasets, please refer to https://codeocean.com/capsule/5043256/tree, where the online‑executable analysis report is provided.
 
