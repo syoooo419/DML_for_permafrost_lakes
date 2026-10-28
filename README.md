@@ -3,9 +3,7 @@ Code and data for article "Diverse thresholds in permafrost-lake transitions fro
 
 Two raw data files, `Data_all_Part1.csv` and `Data_all_Part2.csv`, are provided for causal machine‑learning research. These two split files need to be concatenated into one complete dataset prior to running any computation.
 
-`ITE_LSED_ERA.csv` presents the individual treatment effect (ITE) results of MAAT on lake area obtained through causal inference analysis.
-
-`ITE_Drainage_LSED_ERA.csv` includes causal inference outputs that quantify the impacts of MAAT on drainage lakes.
+`ITE_ALL.csv` presents the individual treatment effect (ITE) results of warmer condition on lake states.
 
 For additional code and datasets, please refer to https://codeocean.com/capsule/5043256/tree, where the online‑executable analysis report is provided.
 
